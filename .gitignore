@@ -1,0 +1,7 @@
+# Local/editor files and nested repositories are not part of the skill library.
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+.git/
+
